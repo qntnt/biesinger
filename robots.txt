@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: https://quentunahelper.github.io/biesinger/sitemap.xml 
